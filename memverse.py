@@ -1,7 +1,7 @@
 import string
 from random import randint
 
-verses = ['Blessed is the one who does not walk in step with the wicked or stand in the way that sinners take or sit in the company of mockers, but whose delight is in the law of the LORD, and who meditates on his law day and night. That person is like a tree planted by streams of water, which yields its fruit in season and whose leaf does not wither- whatever they do prospers. Not so the wicked! They are like chaff that the wind blows away. Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous. For the LORD watches over the way of the righteous, but the way of the wicked leads to destruction.',
+verses = ['Blessed is the man who does not walk in the counsel of the wicked or stand in the way of sinners or sit in the seat of mockers. But his delight is in the law of the LORD, and on his law he meditates day and night. He is like a tree planted by streams of water, which yields its fruit in season and whose leaf does not wither. Whatever he does prospers. Not so the wicked! They are like chaff that the wind blows away. Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous. For the LORD watches over the way of the righteous, but the way of the wicked will perish.',
 'Teacher, which is the greatest commandment in the law? Jesus replied, Love the Lord your God with all your heart and with all your soul and with all your mind. This is the first and greatest commandment.', 
 'All Scripture is God-breathed and is useful for teaching, rebuking, correcting, and training in righteousness, so that the man of God may be thoroughly equipped for every good work.']
 refs = ['Psalms 1:1-6',
