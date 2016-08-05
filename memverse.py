@@ -3,10 +3,12 @@ from random import randint
 
 verses = ['Blessed is the man who does not walk in the counsel of the wicked or stand in the way of sinners or sit in the seat of mockers. But his delight is in the law of the LORD, and on his law he meditates day and night. He is like a tree planted by streams of water, which yields its fruit in season and whose leaf does not wither. Whatever he does prospers. Not so the wicked! They are like chaff that the wind blows away. Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous. For the LORD watches over the way of the righteous, but the way of the wicked will perish.',
 'Teacher, which is the greatest commandment in the law? Jesus replied, Love the Lord your God with all your heart and with all your soul and with all your mind. This is the first and greatest commandment.', 
-'All Scripture is God-breathed and is useful for teaching, rebuking, correcting, and training in righteousness, so that the man of God may be thoroughly equipped for every good work.']
+'All Scripture is God-breathed and is useful for teaching, rebuking, correcting, and training in righteousness, so that the man of God may be thoroughly equipped for every good work.', 
+'Do not let this Book of the Law depart from your mouth; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful.']
 refs = ['Psalms 1:1-6',
 'Matthew 22:36-38', 
-'2 Timothy 3:16-17']
+'2 Timothy 3:16-17', 
+'Joshua 1:8']
 
 # Create a dictionary using a comprehension - this maps every character from
 # string.punctuation to None. Initialize a translation object from it.
